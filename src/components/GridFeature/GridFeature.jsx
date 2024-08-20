@@ -21,7 +21,7 @@ const GridFeature = () => {
         {/* top grid */}
         <div className="xl:grid xl:grid-cols-12 gap-4 xl:gap-8 flex flex-col ">
           {/* first */}
-          <div className="single-content p-4 xl:p-9 bg-[#333] xl:col-span-4   ">
+          <div className="single-content p-4 xl:p-9 bg-[linear-gradient(270deg,#BE0D00_0%,#FF2919_100%)] xl:col-span-4   ">
             <CommonTitle color="#DB0A15">AI Features</CommonTitle>
 
             {/* img wrapper */}
@@ -66,7 +66,7 @@ const GridFeature = () => {
 
             {/* lower one */}
             <div className="flex gap-4 xl:gap-8 flex-col xl:flex-row ">
-              <div className="px-8 py-5 flex-1 bg-[#333]  single-content ">
+              <div className="px-8 py-5 flex-1 bg-[linear-gradient(270deg,#BE0D00_0%,#FF2919_100%)]  single-content ">
                 {/* image */}
                 <div className="  w-[180px] h-[135px] xl:w-[220px] xl:h-[145px] mx-auto mb-6 ">
                   <img
@@ -86,7 +86,7 @@ const GridFeature = () => {
               </div>
               <div
                 className="px-8 pt-6 
-               flex-1 bg-[#333] single-content relative "
+               flex-1 bg-[linear-gradient(270deg,#BE0D00_0%,#FF2919_100%)] single-content relative "
               >
                 <div className="space-y-4 mb-24 xl:mb-0">
                   <CommonTitle color="#DB0A15">Smart Messaging</CommonTitle>
@@ -111,7 +111,7 @@ const GridFeature = () => {
 
         {/* bottom grid */}
         <div className="xl:grid xl:grid-cols-12 gap-4 xl:gap-8 flex flex-col">
-          <div className="xl:col-span-8 single-content pl-[46px] py-0 pt-5 pb-20 xl:py-[145px] bg-[#333] relative ">
+          <div className="xl:col-span-8 single-content pl-[46px] py-0 pt-5 pb-20 xl:py-[145px] bg-[linear-gradient(270deg,#BE0D00_0%,#FF2919_100%)] relative ">
             <div className="space-y-4 relative z-30">
               <CommonTitle color="#DB0A15">Pay-to-View</CommonTitle>
 
@@ -128,7 +128,7 @@ const GridFeature = () => {
               />
             </div>
           </div>
-          <div className="xl:col-span-4 single-content p-5 xl:p-10 bg-[#333] relative ">
+          <div className="xl:col-span-4 single-content p-5 xl:p-10 bg-[linear-gradient(270deg,#BE0D00_0%,#FF2919_100%)] relative ">
             <div className="space-y-4 mb-24 xl:mb-0">
               <CommonTitle color="#DB0A15">Advanced Insights</CommonTitle>
 
