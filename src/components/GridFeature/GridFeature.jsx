@@ -22,7 +22,7 @@ const GridFeature = () => {
         <div className="xl:grid xl:grid-cols-12 gap-4 xl:gap-8 flex flex-col ">
           {/* first */}
           <div className="single-content p-4 xl:p-9 bg-[linear-gradient(270deg,#BE0D00_0%,#FF2919_100%)] xl:col-span-4   ">
-            <CommonTitle color="#DB0A15">AI Features</CommonTitle>
+            <CommonTitle color="#FFFFFF">AI Features</CommonTitle>
 
             {/* img wrapper */}
             <div className=" my-2 xl:my-6">
@@ -77,7 +77,7 @@ const GridFeature = () => {
                 </div>
 
                 <div className="space-y-1">
-                  <CommonTitle color="#DB0A15">Subscriptions</CommonTitle>
+                  <CommonTitle color="#FFFFFF">Subscriptions</CommonTitle>
 
                   <CommonSubTItle color="#FFFFFF">
                     Access all your gifts and save up your Givingli Cash
@@ -89,7 +89,7 @@ const GridFeature = () => {
                flex-1 bg-[linear-gradient(270deg,#BE0D00_0%,#FF2919_100%)] single-content relative "
               >
                 <div className="space-y-4 mb-24 xl:mb-0">
-                  <CommonTitle color="#DB0A15">Smart Messaging</CommonTitle>
+                  <CommonTitle color="#FFFFFF">Smart Messaging</CommonTitle>
 
                   <CommonSubTItle color="#FFFFFF">
                     Track your gifts, group chats, and sent cards
@@ -113,7 +113,7 @@ const GridFeature = () => {
         <div className="xl:grid xl:grid-cols-12 gap-4 xl:gap-8 flex flex-col">
           <div className="xl:col-span-8 single-content pl-[46px] py-0 pt-5 pb-20 xl:py-[145px] bg-[linear-gradient(270deg,#BE0D00_0%,#FF2919_100%)] relative ">
             <div className="space-y-4 relative z-30">
-              <CommonTitle color="#DB0A15">Pay-to-View</CommonTitle>
+              <CommonTitle color="#FFFFFF">Pay-to-View</CommonTitle>
 
               <CommonSubTItle color="#FFFFFF">
                 Send as a group with friends or individually
@@ -130,7 +130,7 @@ const GridFeature = () => {
           </div>
           <div className="xl:col-span-4 single-content p-5 xl:p-10 bg-[linear-gradient(270deg,#BE0D00_0%,#FF2919_100%)] relative ">
             <div className="space-y-4 mb-24 xl:mb-0">
-              <CommonTitle color="#DB0A15">Advanced Insights</CommonTitle>
+              <CommonTitle color="#FFFFFF">Advanced Insights</CommonTitle>
 
               <CommonSubTItle color="#FFFFFF">
                 Never miss a birthday or special occasion again
