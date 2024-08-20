@@ -45,9 +45,9 @@ const GridFeature = () => {
           {/* second */}
           <div className="xl:col-span-8 gap-4 xl:gap-8 flex flex-col">
             {/* top one */}
-            <div className="single-content  w-full px-8 xl:px-[46px] py-4 xl:py-1.5 bg-[#333] flex flex-col xl:flex-row justify-between items-center gap-4 xl:gap-0 ">
+            <div className="single-content  w-full px-8 xl:px-[46px] py-4 xl:py-1.5 bg-[linear-gradient(270deg,#BE0D00_0%,#FF2919_100%)] flex flex-col xl:flex-row justify-between items-center gap-4 xl:gap-0 ">
               <div className="space-y-4">
-                <CommonTitle color="#DB0A15">24/7 Support</CommonTitle>
+                <CommonTitle color="#FFFFFF">24/7 Support</CommonTitle>
 
                 <CommonSubTItle color="#FFFFFF">
                   Schedule all your cards and gifts now and we’ll send them
