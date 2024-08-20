@@ -21,8 +21,8 @@ const GridFeature = () => {
         {/* top grid */}
         <div className="xl:grid xl:grid-cols-12 gap-4 xl:gap-8 flex flex-col ">
           {/* first */}
-          <div className="single-content p-4 xl:p-9 bg-[#DB0A15] xl:col-span-4   ">
-            <CommonTitle color="#000000">AI Features</CommonTitle>
+          <div className="single-content p-4 xl:p-9 bg-[#000000] xl:col-span-4   ">
+            <CommonTitle color="#DB0A15">AI Features</CommonTitle>
 
             {/* img wrapper */}
             <div className=" my-2 xl:my-6">
@@ -45,9 +45,9 @@ const GridFeature = () => {
           {/* second */}
           <div className="xl:col-span-8 gap-4 xl:gap-8 flex flex-col">
             {/* top one */}
-            <div className="single-content  w-full px-8 xl:px-[46px] py-4 xl:py-1.5 bg-[#DB0A15] flex flex-col xl:flex-row justify-between items-center gap-4 xl:gap-0 ">
+            <div className="single-content  w-full px-8 xl:px-[46px] py-4 xl:py-1.5 bg-[#000000] flex flex-col xl:flex-row justify-between items-center gap-4 xl:gap-0 ">
               <div className="space-y-4">
-                <CommonTitle color="#000000">24/7 Support</CommonTitle>
+                <CommonTitle color="#DB0A15">24/7 Support</CommonTitle>
 
                 <CommonSubTItle color="#FFFFFF">
                   Schedule all your cards and gifts now and we’ll send them
@@ -111,9 +111,9 @@ const GridFeature = () => {
 
         {/* bottom grid */}
         <div className="xl:grid xl:grid-cols-12 gap-4 xl:gap-8 flex flex-col">
-          <div className="xl:col-span-8 single-content pl-[46px] py-0 pt-5 pb-20 xl:py-[145px] bg-[#DB0A15] relative ">
+          <div className="xl:col-span-8 single-content pl-[46px] py-0 pt-5 pb-20 xl:py-[145px] bg-[#000000] relative ">
             <div className="space-y-4 relative z-30">
-              <CommonTitle color="#000000">Pay-to-View</CommonTitle>
+              <CommonTitle color="#DB0A15">Pay-to-View</CommonTitle>
 
               <CommonSubTItle color="#FFFFFF">
                 Send as a group with friends or individually
