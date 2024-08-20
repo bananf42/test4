@@ -27,7 +27,7 @@ const MarketingArea = () => {
               }}
               className={titleStyles}
             >
-              Join a platform that <span className="text-pinkRed">cares</span>{" "}
+              Join a platform that <span className="text-black">cares</span>{" "}
             </h4>
 
             <p
@@ -53,7 +53,7 @@ const MarketingArea = () => {
               }}
               className={titleStyles}
             >
-              Simple & easy to get <span className="text-pinkRed">started</span>{" "}
+              Simple & easy to get <span className="text-black">started</span>{" "}
             </h4>
 
             <p
@@ -109,8 +109,8 @@ const MarketingArea = () => {
       {/* sign up banner */}
       <div className="mt-4 w-full py-6 xl:py-[75px] px-6 xl:px-[58px]  rounded-3xl bg-[linear-gradient(270deg,#BE0D00_0%,#FF2919_100%)] relative overflow-hidden">
         <div className="max-w-[782px] text-center mb-[250px] xl:mb-0">
-          <h3 className=" text-[32px] leading-[48px]  xl:text-[64px] xl:leading-[84px] font-semibold text-[#4F340A]  ">
-            Sign up this month, <span className="text-pinkRed">earn more</span>{" "}
+          <h3 className=" text-[32px] leading-[48px]  xl:text-[64px] xl:leading-[84px] font-semibold text-[#FFFFFF]  ">
+            Sign up this month, <span className="text-black">earn more</span>{" "}
           </h3>
 
           <p className=" text-[18px] leading-7 text-[#FFFFFF] max-w-[412px] mx-auto pb-5 xl:pb-[55px] ">
