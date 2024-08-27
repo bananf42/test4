@@ -13,10 +13,10 @@ const Creators = () => {
     },
     {
       creator_img:
-        "https://images.pexels.com/photos/432059/pexels-photo-432059.jpeg?auto=compress&cs=tinysrgb&w=600",
-      creator_name: "Sam Jones",
-      creator_role: "AI Creator",
-      followers: "508k",
+        "https://fans.nyc3.cdn.digitaloceanspaces.com/photos/alexandrawett.png",
+      creator_name: "Alexandra Wett",
+      creator_role: "Zuvlo Creator",
+      followers: "105k",
     },
     {
       creator_img:
