@@ -6,10 +6,10 @@ const Creators = () => {
   const creators = [
     {
       creator_img:
-        "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=600",
-      creator_name: "Aitana Lopez",
-      creator_role: "AI Creator",
-      followers: "200k",
+        "https://fans.nyc3.cdn.digitaloceanspaces.com/users/avatar/44192a36f5ef47adbb4bac99e59332c4.jpg",
+      creator_name: "The Slutty Braniac",
+      creator_role: "Zuvlo Creator",
+      followers: "81k",
     },
     {
       creator_img:
